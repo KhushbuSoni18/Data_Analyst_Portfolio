@@ -25,10 +25,6 @@ It is built using **HTML**, **CSS**, and **JavaScript**, and designed to be resp
 - **JavaScript (Vanilla)** for interactivity and animations
 - **GitHub Pages** for hosting (optional)
 
-## 📸 Live Demo
-You can view the live portfolio here:  
-[**Live Portfolio Link**](https://yourusername.github.io/your-repo-name)
-
 ## 📬 Contact
 - **Email:** khushbu.ksonii@gmail.com  
 - **Location:** Khandwa, Madhya Pradesh, India  
