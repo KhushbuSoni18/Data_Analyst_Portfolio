@@ -28,7 +28,7 @@ It is built using **HTML**, **CSS**, and **JavaScript**, and designed to be resp
 
 ## 📸 Live Demo
 You can view the live portfolio here:  
-[**Live Portfolio Link**](https://yourusername.github.io/your-repo-name)
+[**Live Portfolio Link**](https://khushbusoni18.github.io/Data_Analyst_Portfolio/)
 
 ## 📬 Contact
 - **Email:** khushbu.ksonii@gmail.com  
